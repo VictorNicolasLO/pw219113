@@ -1,0 +1,69 @@
+body {
+  border: 1px solid blue;
+  margin: 0px auto;
+  max-width: 1024px;
+}
+
+header {
+  background: #d1e3ee;
+}
+
+header nav {
+  width: 95%;
+  margin: auto;
+  margin: auto;
+
+  border-radius: 5px;
+  background: #026dc6;
+}
+
+header nav form {
+  float: right;
+  margin-top: -42px;
+  margin-right: 20px;
+}
+
+header nav ul {
+  color: white;
+}
+
+header nav ul li {
+  padding: 10px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+#logo {
+  margin-top: -150px;
+}
+
+#seccion01 {
+  margin-top: 15px;
+}
+
+#seccion01 article {
+  text-align: center;
+}
+
+#seccion01 article img {
+  border: 5px solid rgba(150, 150, 150, 0.5);
+  width: 98%;
+}
+
+#seccion02 article {
+  display: inline-block;
+  width: 32.8%;
+  vertical-align: top;
+}
+
+.una-seccion {
+  font-size: 4.5em;
+}
+
+.otra-seccion {
+  font-size: 2.5em;
+}
+
+.font-bold {
+  font-weight: bold;
+}
